@@ -1,2 +1,2 @@
-# priv-scripts
+# private-scripts
 Various shell scripts
